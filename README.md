@@ -16,7 +16,7 @@ pip install pypresence
 2 step: Now open the archive what u downloaded in release.
 move the folder from archive to desktop.
 Now, Open that folder and open file named "sqvRPC_Updater" from that folder
-wait till installer downloaded it and closed.
+wait till installer will close.
 Now in that folder from u just opened updater, u see new file named "sqvDevRichPresence"
 Open it.
 
